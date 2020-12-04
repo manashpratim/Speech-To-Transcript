@@ -5,7 +5,7 @@
 
 2. Decoded the sequences using greedy decoding, random decoding and beam search.
 
-3. Achieved a Levenshtein distance of 11.43 on the test set, beating the A cutoff of 12. 
+3. Achieved a Levenshtein distance of 9.43 on the test set.
 
 **Note: This project is part of my Homeworks. Current CMU students please refrain from going through the codes.**
 
